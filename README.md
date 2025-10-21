@@ -3,7 +3,7 @@
 I'm a backend developer and machine learning enthusiast. I build reliable server-side systems, work with databases, and prototype ML/DNN solutions that solve real problems — clean, testable, and production-minded.
 
 <p align="center">
-  <img alt="Tech icons" src="https://skillicons.dev/icons?i=nodejs,express,react,python,java,mongodb,mysql,docker,aws,flask,opencv,tensorflow,keras,pytorch,git,linux,postgres,ts" />
+  <img alt="Tech icons" src="https://skillicons.dev/icons?i=nodejs,express,react,python,java,mongodb,mysql,flask,opencv,tensorflow,keras,git,linux,scikit-learn,javascript,postman" />
 </p>
 
 ---
