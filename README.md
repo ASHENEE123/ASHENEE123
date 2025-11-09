@@ -64,6 +64,9 @@ Focused on applied machine learning and deep neural networks (DNNs) with a pract
   <img alt="Keras" src="https://skillicons.dev/icons?i=keras" width="28" />&nbsp;
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="28" />&nbsp;
   <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="28" />
+   <img alt="LangChain" src="https://skillicons.dev/icons?i=langchain" width="28" />
+  <img alt="Hugging Face" src="https://skillicons.dev/icons?i=huggingface" width="28" />
+   <img alt="Socket.IO" src="https://skillicons.dev/icons?i=socketio" width="28" />
 </p>
 
 ---
