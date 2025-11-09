@@ -3,7 +3,7 @@
 I'm a backend developer and machine learning enthusiast. I build reliable server-side systems, work with databases, and prototype ML/DNN solutions that solve real problems — clean, testable, and production-minded.
 
 <p align="center">
-  <img alt="Tech icons" src="https://skillicons.dev/icons?i=nodejs,express,react,python,java,mongodb,mysql,flask,opencv,tensorflow,keras,git,linux,scikit-learn,javascript,postman" />
+  <img alt="Tech icons" src="https://skillicons.dev/icons?i=nodejs,express,react,python,java,mongodb,mysql,flask,opencv,tensorflow,keras,git,linux,scikit-learn,javascript,postman,sqlite,github" />
 </p>
 
 ---
@@ -64,9 +64,8 @@ Focused on applied machine learning and deep neural networks (DNNs) with a pract
   <img alt="Keras" src="https://skillicons.dev/icons?i=keras" width="28" />&nbsp;
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="28" />&nbsp;
   <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="28" />
-   <img alt="LangChain" src="https://skillicons.dev/icons?i=langchain" width="28" />
-  <img alt="Hugging Face" src="https://skillicons.dev/icons?i=huggingface" width="28" />
-   <img alt="Socket.IO" src="https://skillicons.dev/icons?i=socketio" width="28" />
+   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
 </p>
 
 ---
